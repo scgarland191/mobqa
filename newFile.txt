@@ -1,2 +1,0 @@
-This is an addition to an existing file for Assignment 1
-This file will allow another commit to be made.
