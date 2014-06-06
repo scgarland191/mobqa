@@ -1,2 +1,4 @@
 This text represents line 1
 This text represents line 2
+Add text to line 1 again
+Add text to line 2 again
